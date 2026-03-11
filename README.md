@@ -6,7 +6,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Node.js >= 18](https://img.shields.io/badge/node-%3E%3D18-brightgreen)](package.json)
 
-> Zero-dependency package for Portuguese public holidays — national and municipal (_feriados nacionais e municipais_). Written in TypeScript with full type definitions included.
+> NPM package for Portuguese public holidays — national and municipal (_feriados nacionais e municipais_). Written in TypeScript with full type definitions included.
 
 ## Background
 
