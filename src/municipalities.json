@@ -1,0 +1,3284 @@
+[
+  {
+    "municipality": "Abrantes",
+    "district": "Santarém",
+    "name": "Elevation to city",
+    "namePt": "Elevação a cidade",
+    "rule": {
+      "type": "fixed",
+      "month": 6,
+      "day": 14
+    }
+  },
+  {
+    "municipality": "Águeda",
+    "district": "Aveiro",
+    "name": "Pentecost (Feast of São Geraldo)",
+    "namePt": "Pentecostes (Festa de São Geraldo)",
+    "rule": {
+      "type": "pentecost"
+    }
+  },
+  {
+    "municipality": "Aguiar da Beira",
+    "district": "Guarda",
+    "name": "Restoration of the municipality",
+    "namePt": "Restauração do concelho",
+    "rule": {
+      "type": "fixed",
+      "month": 2,
+      "day": 10
+    }
+  },
+  {
+    "municipality": "Alandroal",
+    "district": "Évora",
+    "name": "Pascoela Monday (Our Lady of Boa Nova)",
+    "namePt": "Segunda-feira de Pascoela (Nossa Senhora da Boa Nova)",
+    "rule": {
+      "type": "pascoela"
+    }
+  },
+  {
+    "municipality": "Albergaria-a-Velha",
+    "district": "Aveiro",
+    "name": "Monday of Our Lady of Socorro",
+    "namePt": "Segunda-feira da Senhora do Socorro",
+    "rule": {
+      "type": "nearest_mon",
+      "month": 8,
+      "day": 17
+    }
+  },
+  {
+    "municipality": "Albufeira",
+    "district": "Faro",
+    "name": "Charter of King Manuel I",
+    "namePt": "Foral de D. Manuel I",
+    "rule": {
+      "type": "fixed",
+      "month": 8,
+      "day": 20
+    }
+  },
+  {
+    "municipality": "Alcácer do Sal",
+    "district": "Setúbal",
+    "name": "St. John the Baptist",
+    "namePt": "São João Baptista",
+    "rule": {
+      "type": "fixed",
+      "month": 6,
+      "day": 24
+    }
+  },
+  {
+    "municipality": "Alcanena",
+    "district": "Santarém",
+    "name": "Ascension Thursday",
+    "namePt": "Quinta-feira da Ascensão",
+    "rule": {
+      "type": "ascension"
+    }
+  },
+  {
+    "municipality": "Alcobaça",
+    "district": "Leiria",
+    "name": "St. Bernard",
+    "namePt": "São Bernardo",
+    "rule": {
+      "type": "fixed",
+      "month": 8,
+      "day": 20
+    }
+  },
+  {
+    "municipality": "Alcochete",
+    "district": "Setúbal",
+    "name": "St. John the Baptist",
+    "namePt": "São João Baptista",
+    "rule": {
+      "type": "fixed",
+      "month": 6,
+      "day": 24
+    }
+  },
+  {
+    "municipality": "Alcoutim",
+    "district": "Faro",
+    "name": "Festas de Alcoutim",
+    "namePt": "Festas de Alcoutim",
+    "rule": {
+      "type": "nearest_mon",
+      "month": 9,
+      "day": 12
+    }
+  },
+  {
+    "municipality": "Alenquer",
+    "district": "Lisboa",
+    "name": "Ascension Thursday",
+    "namePt": "Quinta-feira da Ascensão",
+    "rule": {
+      "type": "ascension"
+    }
+  },
+  {
+    "municipality": "Alfândega da Fé",
+    "district": "Bragança",
+    "name": "St. Peter",
+    "namePt": "São Pedro",
+    "rule": {
+      "type": "fixed",
+      "month": 6,
+      "day": 29
+    }
+  },
+  {
+    "municipality": "Alijó",
+    "district": "Vila Real",
+    "name": "St. Martin's Day",
+    "namePt": "São Martinho",
+    "rule": {
+      "type": "fixed",
+      "month": 11,
+      "day": 11
+    }
+  },
+  {
+    "municipality": "Aljezur",
+    "district": "Faro",
+    "name": "Banho Santo",
+    "namePt": "Banho Santo",
+    "rule": {
+      "type": "fixed",
+      "month": 8,
+      "day": 29
+    }
+  },
+  {
+    "municipality": "Aljustrel",
+    "district": "Beja",
+    "name": "St. Anthony's Day",
+    "namePt": "Santo António",
+    "rule": {
+      "type": "fixed",
+      "month": 6,
+      "day": 13
+    }
+  },
+  {
+    "municipality": "Almada",
+    "district": "Setúbal",
+    "name": "St. John the Baptist",
+    "namePt": "São João Baptista",
+    "rule": {
+      "type": "fixed",
+      "month": 6,
+      "day": 24
+    }
+  },
+  {
+    "municipality": "Almeida",
+    "district": "Guarda",
+    "name": "Battle of Côa (1810)",
+    "namePt": "Batalha do Côa (1810)",
+    "rule": {
+      "type": "fixed",
+      "month": 7,
+      "day": 2
+    }
+  },
+  {
+    "municipality": "Almeirim",
+    "district": "Santarém",
+    "name": "Ascension Thursday",
+    "namePt": "Quinta-feira da Ascensão",
+    "rule": {
+      "type": "ascension"
+    }
+  },
+  {
+    "municipality": "Almodôvar",
+    "district": "Beja",
+    "name": "St. John the Baptist",
+    "namePt": "São João Baptista",
+    "rule": {
+      "type": "fixed",
+      "month": 6,
+      "day": 24
+    }
+  },
+  {
+    "municipality": "Alpiarça",
+    "district": "Santarém",
+    "name": "Foundation of municipality",
+    "namePt": "Criação do município",
+    "rule": {
+      "type": "fixed",
+      "month": 4,
+      "day": 2
+    }
+  },
+  {
+    "municipality": "Alter do Chão",
+    "district": "Portalegre",
+    "name": "Ascension Thursday",
+    "namePt": "Quinta-feira da Ascensão",
+    "rule": {
+      "type": "ascension"
+    }
+  },
+  {
+    "municipality": "Alvaiázere",
+    "district": "Leiria",
+    "name": "St. Anthony's Day",
+    "namePt": "Santo António",
+    "rule": {
+      "type": "fixed",
+      "month": 6,
+      "day": 13
+    }
+  },
+  {
+    "municipality": "Alvito",
+    "district": "Beja",
+    "name": "Ascension Thursday",
+    "namePt": "Quinta-feira da Ascensão",
+    "rule": {
+      "type": "ascension"
+    }
+  },
+  {
+    "municipality": "Amadora",
+    "district": "Lisboa",
+    "name": "Foundation of municipality",
+    "namePt": "Criação do município",
+    "rule": {
+      "type": "fixed",
+      "month": 9,
+      "day": 11
+    }
+  },
+  {
+    "municipality": "Amarante",
+    "district": "Porto",
+    "name": "Elevation to city",
+    "namePt": "Elevação a cidade",
+    "rule": {
+      "type": "fixed",
+      "month": 7,
+      "day": 8
+    }
+  },
+  {
+    "municipality": "Amares",
+    "district": "Braga",
+    "name": "St. Anthony's Day",
+    "namePt": "Santo António",
+    "rule": {
+      "type": "fixed",
+      "month": 6,
+      "day": 13
+    }
+  },
+  {
+    "municipality": "Anadia",
+    "district": "Aveiro",
+    "name": "Ascension Thursday",
+    "namePt": "Quinta-feira da Ascensão",
+    "rule": {
+      "type": "ascension"
+    }
+  },
+  {
+    "municipality": "Angra do Heroísmo",
+    "district": "Açores",
+    "name": "St. John the Baptist",
+    "namePt": "São João Baptista",
+    "rule": {
+      "type": "fixed",
+      "month": 6,
+      "day": 24
+    }
+  },
+  {
+    "municipality": "Ansião",
+    "district": "Leiria",
+    "name": "Ascension Thursday",
+    "namePt": "Quinta-feira da Ascensão",
+    "rule": {
+      "type": "ascension"
+    }
+  },
+  {
+    "municipality": "Arcos de Valdevez",
+    "district": "Viana do Castelo",
+    "name": "St. Benedict",
+    "namePt": "São Bento",
+    "rule": {
+      "type": "fixed",
+      "month": 7,
+      "day": 11
+    }
+  },
+  {
+    "municipality": "Arganil",
+    "district": "Coimbra",
+    "name": "Our Lady of Mont'Alto",
+    "namePt": "Nossa Senhora do Mont'Alto",
+    "rule": {
+      "type": "fixed",
+      "month": 9,
+      "day": 7
+    }
+  },
+  {
+    "municipality": "Armamar",
+    "district": "Viseu",
+    "name": "St. John the Baptist",
+    "namePt": "São João Baptista",
+    "rule": {
+      "type": "fixed",
+      "month": 6,
+      "day": 24
+    }
+  },
+  {
+    "municipality": "Arouca",
+    "district": "Aveiro",
+    "name": "Queen Saint Mafalda",
+    "namePt": "Rainha Santa Mafalda",
+    "rule": {
+      "type": "fixed",
+      "month": 5,
+      "day": 2
+    }
+  },
+  {
+    "municipality": "Arraiolos",
+    "district": "Évora",
+    "name": "Ascension Thursday",
+    "namePt": "Quinta-feira da Ascensão",
+    "rule": {
+      "type": "ascension"
+    }
+  },
+  {
+    "municipality": "Arronches",
+    "district": "Portalegre",
+    "name": "St. John the Baptist",
+    "namePt": "São João Baptista",
+    "rule": {
+      "type": "fixed",
+      "month": 6,
+      "day": 24
+    }
+  },
+  {
+    "municipality": "Arruda dos Vinhos",
+    "district": "Lisboa",
+    "name": "Ascension Thursday",
+    "namePt": "Quinta-feira da Ascensão",
+    "rule": {
+      "type": "ascension"
+    }
+  },
+  {
+    "municipality": "Aveiro",
+    "district": "Aveiro",
+    "name": "Princess Saint Joana",
+    "namePt": "Santa Joana Princesa",
+    "rule": {
+      "type": "fixed",
+      "month": 5,
+      "day": 12
+    }
+  },
+  {
+    "municipality": "Avis",
+    "district": "Portalegre",
+    "name": "Easter Monday",
+    "namePt": "Segunda-feira de Páscoa",
+    "rule": {
+      "type": "easter",
+      "offset": 1
+    }
+  },
+  {
+    "municipality": "Azambuja",
+    "district": "Lisboa",
+    "name": "Ascension Thursday",
+    "namePt": "Quinta-feira da Ascensão",
+    "rule": {
+      "type": "ascension"
+    }
+  },
+  {
+    "municipality": "Baião",
+    "district": "Porto",
+    "name": "St. Bartholomew",
+    "namePt": "São Bartolomeu",
+    "rule": {
+      "type": "fixed",
+      "month": 8,
+      "day": 24
+    }
+  },
+  {
+    "municipality": "Barcelos",
+    "district": "Braga",
+    "name": "Holy Cross",
+    "namePt": "Santa Cruz",
+    "rule": {
+      "type": "fixed",
+      "month": 5,
+      "day": 3
+    }
+  },
+  {
+    "municipality": "Barrancos",
+    "district": "Beja",
+    "name": "Feast of Our Lady of Conceição",
+    "namePt": "Festa de Nossa Senhora da Conceição",
+    "rule": {
+      "type": "fixed",
+      "month": 8,
+      "day": 28
+    }
+  },
+  {
+    "municipality": "Barreiro",
+    "district": "Setúbal",
+    "name": "Elevation to city",
+    "namePt": "Elevação a cidade",
+    "rule": {
+      "type": "fixed",
+      "month": 6,
+      "day": 28
+    }
+  },
+  {
+    "municipality": "Batalha",
+    "district": "Leiria",
+    "name": "Battle of Aljubarrota",
+    "namePt": "Batalha de Aljubarrota",
+    "rule": {
+      "type": "fixed",
+      "month": 8,
+      "day": 14
+    }
+  },
+  {
+    "municipality": "Beja",
+    "district": "Beja",
+    "name": "Ascension Thursday",
+    "namePt": "Quinta-feira da Ascensão",
+    "rule": {
+      "type": "ascension"
+    }
+  },
+  {
+    "municipality": "Belmonte",
+    "district": "Castelo Branco",
+    "name": "First Mass in Brazil",
+    "namePt": "Primeira missa no Brasil",
+    "rule": {
+      "type": "fixed",
+      "month": 4,
+      "day": 26
+    }
+  },
+  {
+    "municipality": "Benavente",
+    "district": "Santarém",
+    "name": "Ascension Thursday",
+    "namePt": "Quinta-feira da Ascensão",
+    "rule": {
+      "type": "ascension"
+    }
+  },
+  {
+    "municipality": "Bombarral",
+    "district": "Leiria",
+    "name": "St. Peter",
+    "namePt": "São Pedro",
+    "rule": {
+      "type": "fixed",
+      "month": 6,
+      "day": 29
+    }
+  },
+  {
+    "municipality": "Borba",
+    "district": "Évora",
+    "name": "Easter Monday",
+    "namePt": "Segunda-feira de Páscoa",
+    "rule": {
+      "type": "easter",
+      "offset": 1
+    }
+  },
+  {
+    "municipality": "Boticas",
+    "district": "Vila Real",
+    "name": "Foundation of municipality",
+    "namePt": "Criação do município",
+    "rule": {
+      "type": "fixed",
+      "month": 11,
+      "day": 6
+    }
+  },
+  {
+    "municipality": "Braga",
+    "district": "Braga",
+    "name": "St. John the Baptist",
+    "namePt": "São João Baptista",
+    "rule": {
+      "type": "fixed",
+      "month": 6,
+      "day": 24
+    }
+  },
+  {
+    "municipality": "Bragança",
+    "district": "Bragança",
+    "name": "Our Lady of Graças",
+    "namePt": "Nossa Senhora das Graças",
+    "rule": {
+      "type": "fixed",
+      "month": 8,
+      "day": 22
+    }
+  },
+  {
+    "municipality": "Cabeceiras de Basto",
+    "district": "Braga",
+    "name": "St. Michael the Archangel",
+    "namePt": "São Miguel Arcanjo",
+    "rule": {
+      "type": "fixed",
+      "month": 9,
+      "day": 29
+    }
+  },
+  {
+    "municipality": "Cadaval",
+    "district": "Lisboa",
+    "name": "Restoration of municipality",
+    "namePt": "Restauração do município",
+    "rule": {
+      "type": "fixed",
+      "month": 1,
+      "day": 13
+    }
+  },
+  {
+    "municipality": "Caldas da Rainha",
+    "district": "Leiria",
+    "name": "Foundation by Queen D. Leonor",
+    "namePt": "Fundação da localidade pela rainha D. Leonor",
+    "rule": {
+      "type": "fixed",
+      "month": 5,
+      "day": 15
+    }
+  },
+  {
+    "municipality": "Calheta",
+    "district": "Madeira",
+    "name": "St. Catherine",
+    "namePt": "Santa Catarina",
+    "rule": {
+      "type": "fixed",
+      "month": 11,
+      "day": 25
+    }
+  },
+  {
+    "municipality": "Câmara de Lobos",
+    "district": "Madeira",
+    "name": "Foundation of municipality",
+    "namePt": "Criação do município",
+    "rule": {
+      "type": "fixed",
+      "month": 10,
+      "day": 4
+    }
+  },
+  {
+    "municipality": "Caminha",
+    "district": "Viana do Castelo",
+    "name": "Easter Monday",
+    "namePt": "Segunda-feira de Páscoa",
+    "rule": {
+      "type": "easter",
+      "offset": 1
+    }
+  },
+  {
+    "municipality": "Campo Maior",
+    "district": "Portalegre",
+    "name": "Easter Monday",
+    "namePt": "Segunda-feira de Páscoa",
+    "rule": {
+      "type": "easter",
+      "offset": 1
+    }
+  },
+  {
+    "municipality": "Cantanhede",
+    "district": "Coimbra",
+    "name": "St. James",
+    "namePt": "São Tiago",
+    "rule": {
+      "type": "fixed",
+      "month": 7,
+      "day": 25
+    }
+  },
+  {
+    "municipality": "Carrazeda de Ansiães",
+    "district": "Bragança",
+    "name": "Elevation to municipality",
+    "namePt": "Elevação a município",
+    "rule": {
+      "type": "fixed",
+      "month": 8,
+      "day": 31
+    }
+  },
+  {
+    "municipality": "Carregal do Sal",
+    "district": "Viseu",
+    "name": "Our Lady of Febres",
+    "namePt": "Nossa Senhora das Febres",
+    "rule": {
+      "type": "nearest_mon",
+      "month": 7,
+      "day": 20
+    }
+  },
+  {
+    "municipality": "Cartaxo",
+    "district": "Santarém",
+    "name": "Ascension Thursday",
+    "namePt": "Quinta-feira da Ascensão",
+    "rule": {
+      "type": "ascension"
+    }
+  },
+  {
+    "municipality": "Cascais",
+    "district": "Lisboa",
+    "name": "St. Anthony's Day",
+    "namePt": "Santo António",
+    "rule": {
+      "type": "fixed",
+      "month": 6,
+      "day": 13
+    }
+  },
+  {
+    "municipality": "Castanheira de Pera",
+    "district": "Leiria",
+    "name": "Foundation of municipality",
+    "namePt": "Fundação do município",
+    "rule": {
+      "type": "fixed",
+      "month": 7,
+      "day": 4
+    }
+  },
+  {
+    "municipality": "Castelo Branco",
+    "district": "Castelo Branco",
+    "name": "Our Lady of Mércoles",
+    "namePt": "Nossa Senhora de Mércoles",
+    "rule": {
+      "type": "easter",
+      "offset": 2
+    }
+  },
+  {
+    "municipality": "Castelo de Paiva",
+    "district": "Aveiro",
+    "name": "St. John the Baptist",
+    "namePt": "São João Baptista",
+    "rule": {
+      "type": "fixed",
+      "month": 6,
+      "day": 24
+    }
+  },
+  {
+    "municipality": "Castelo de Vide",
+    "district": "Portalegre",
+    "name": "Our Lady of Light (Easter Monday)",
+    "namePt": "Nossa Senhora da Luz",
+    "rule": {
+      "type": "easter",
+      "offset": 1
+    }
+  },
+  {
+    "municipality": "Castro Daire",
+    "district": "Viseu",
+    "name": "St. Peter",
+    "namePt": "São Pedro",
+    "rule": {
+      "type": "fixed",
+      "month": 6,
+      "day": 29
+    }
+  },
+  {
+    "municipality": "Castro Marim",
+    "district": "Faro",
+    "name": "St. John the Baptist",
+    "namePt": "São João Baptista",
+    "rule": {
+      "type": "fixed",
+      "month": 6,
+      "day": 24
+    }
+  },
+  {
+    "municipality": "Castro Verde",
+    "district": "Beja",
+    "name": "St. Peter",
+    "namePt": "São Pedro",
+    "rule": {
+      "type": "fixed",
+      "month": 6,
+      "day": 29
+    }
+  },
+  {
+    "municipality": "Celorico da Beira",
+    "district": "Guarda",
+    "name": "Birthday of Sacadura Cabral",
+    "namePt": "Nascimento de Sacadura Cabral",
+    "rule": {
+      "type": "fixed",
+      "month": 5,
+      "day": 23
+    }
+  },
+  {
+    "municipality": "Celorico de Basto",
+    "district": "Braga",
+    "name": "St. James",
+    "namePt": "São Tiago",
+    "rule": {
+      "type": "fixed",
+      "month": 7,
+      "day": 25
+    }
+  },
+  {
+    "municipality": "Chamusca",
+    "district": "Santarém",
+    "name": "Ascension Thursday",
+    "namePt": "Quinta-feira da Ascensão",
+    "rule": {
+      "type": "ascension"
+    }
+  },
+  {
+    "municipality": "Chaves",
+    "district": "Vila Real",
+    "name": "1st Monarchist Incursion (1912)",
+    "namePt": "1ª Incursão Monárquica (1912)",
+    "rule": {
+      "type": "fixed",
+      "month": 7,
+      "day": 8
+    }
+  },
+  {
+    "municipality": "Cinfães",
+    "district": "Viseu",
+    "name": "St. John the Baptist",
+    "namePt": "São João Baptista",
+    "rule": {
+      "type": "fixed",
+      "month": 6,
+      "day": 24
+    }
+  },
+  {
+    "municipality": "Coimbra",
+    "district": "Coimbra",
+    "name": "St. Elizabeth",
+    "namePt": "Rainha Santa Isabel",
+    "rule": {
+      "type": "fixed",
+      "month": 7,
+      "day": 4
+    }
+  },
+  {
+    "municipality": "Condeixa-a-Nova",
+    "district": "Coimbra",
+    "name": "St. Christina",
+    "namePt": "Santa Cristina",
+    "rule": {
+      "type": "fixed",
+      "month": 7,
+      "day": 24
+    }
+  },
+  {
+    "municipality": "Constância",
+    "district": "Santarém",
+    "name": "Our Lady of Boa Viagem (Easter Monday)",
+    "namePt": "Nossa Senhora da Boa Viage",
+    "rule": {
+      "type": "easter",
+      "offset": 1
+    }
+  },
+  {
+    "municipality": "Coruche",
+    "district": "Santarém",
+    "name": "Our Lady of Castelo",
+    "namePt": "Nossa Senhora do Castelo",
+    "rule": {
+      "type": "fixed",
+      "month": 8,
+      "day": 17
+    }
+  },
+  {
+    "municipality": "Covilhã",
+    "district": "Castelo Branco",
+    "name": "Elevation to city",
+    "namePt": "Elevação a cidade",
+    "rule": {
+      "type": "fixed",
+      "month": 10,
+      "day": 20
+    }
+  },
+  {
+    "municipality": "Crato",
+    "district": "Portalegre",
+    "name": "São Gregório (Easter Monday)",
+    "namePt": "São Gregório",
+    "rule": {
+      "type": "easter",
+      "offset": 1
+    }
+  },
+  {
+    "municipality": "Cuba",
+    "district": "Beja",
+    "name": "Easter Monday",
+    "namePt": "Segunda-feira de Páscoa",
+    "rule": {
+      "type": "easter",
+      "offset": 1
+    }
+  },
+  {
+    "municipality": "Elvas",
+    "district": "Portalegre",
+    "name": "Battle of Linhas de Elvas",
+    "namePt": "Batalha das Linhas de Elvas",
+    "rule": {
+      "type": "fixed",
+      "month": 1,
+      "day": 14
+    }
+  },
+  {
+    "municipality": "Entroncamento",
+    "district": "Santarém",
+    "name": "Foundation of municipality",
+    "namePt": "Criação do município",
+    "rule": {
+      "type": "fixed",
+      "month": 11,
+      "day": 24
+    }
+  },
+  {
+    "municipality": "Espinho",
+    "district": "Aveiro",
+    "name": "Elevation to city",
+    "namePt": "Elevação a cidade",
+    "rule": {
+      "type": "fixed",
+      "month": 6,
+      "day": 16
+    }
+  },
+  {
+    "municipality": "Esposende",
+    "district": "Braga",
+    "name": "Elevation to town",
+    "namePt": "Elevação à categoria de vila",
+    "rule": {
+      "type": "fixed",
+      "month": 8,
+      "day": 19
+    }
+  },
+  {
+    "municipality": "Estarreja",
+    "district": "Aveiro",
+    "name": "St. Anthony's Day",
+    "namePt": "Santo António",
+    "rule": {
+      "type": "fixed",
+      "month": 6,
+      "day": 13
+    }
+  },
+  {
+    "municipality": "Estremoz",
+    "district": "Évora",
+    "name": "Ascension Thursday",
+    "namePt": "Quinta-feira da Ascensão",
+    "rule": {
+      "type": "ascension"
+    }
+  },
+  {
+    "municipality": "Évora",
+    "district": "Évora",
+    "name": "St. Peter",
+    "namePt": "São Pedro",
+    "rule": {
+      "type": "fixed",
+      "month": 6,
+      "day": 29
+    }
+  },
+  {
+    "municipality": "Fafe",
+    "district": "Braga",
+    "name": "Feiras Francas",
+    "namePt": "Feiras Francas",
+    "rule": {
+      "type": "fixed",
+      "month": 5,
+      "day": 16
+    }
+  },
+  {
+    "municipality": "Faro",
+    "district": "Faro",
+    "name": "Elevation to city",
+    "namePt": "Elevação a cidade",
+    "rule": {
+      "type": "fixed",
+      "month": 9,
+      "day": 7
+    }
+  },
+  {
+    "municipality": "Felgueiras",
+    "district": "Porto",
+    "name": "St. Peter",
+    "namePt": "São Pedro",
+    "rule": {
+      "type": "fixed",
+      "month": 6,
+      "day": 29
+    }
+  },
+  {
+    "municipality": "Ferreira do Alentejo",
+    "district": "Beja",
+    "name": "Manueline Charter",
+    "namePt": "Outorgação do foral manuelino",
+    "rule": {
+      "type": "fixed",
+      "month": 3,
+      "day": 5
+    }
+  },
+  {
+    "municipality": "Ferreira do Zêzere",
+    "district": "Santarém",
+    "name": "St. Anthony's Day",
+    "namePt": "Santo António",
+    "rule": {
+      "type": "fixed",
+      "month": 6,
+      "day": 13
+    }
+  },
+  {
+    "municipality": "Figueira da Foz",
+    "district": "Coimbra",
+    "name": "St. John the Baptist",
+    "namePt": "São João Baptista",
+    "rule": {
+      "type": "fixed",
+      "month": 6,
+      "day": 24
+    }
+  },
+  {
+    "municipality": "Figueira de Castelo Rodrigo",
+    "district": "Guarda",
+    "name": "Battle of Salgadela (1664)",
+    "namePt": "Batalha de Salgadela (1664)",
+    "rule": {
+      "type": "fixed",
+      "month": 7,
+      "day": 7
+    }
+  },
+  {
+    "municipality": "Figueiró dos Vinhos",
+    "district": "Leiria",
+    "name": "St. John the Baptist",
+    "namePt": "São João Baptista",
+    "rule": {
+      "type": "fixed",
+      "month": 6,
+      "day": 24
+    }
+  },
+  {
+    "municipality": "Fornos de Algodres",
+    "district": "Guarda",
+    "name": "St. Michael the Archangel",
+    "namePt": "São Miguel Arcanjo",
+    "rule": {
+      "type": "fixed",
+      "month": 9,
+      "day": 29
+    }
+  },
+  {
+    "municipality": "Freixo de Espada à Cinta",
+    "district": "Bragança",
+    "name": "Easter Monday",
+    "namePt": "Segunda-feira de Páscoa",
+    "rule": {
+      "type": "easter",
+      "offset": 1
+    }
+  },
+  {
+    "municipality": "Fronteira",
+    "district": "Portalegre",
+    "name": "Battle of Atoleiros",
+    "namePt": "Batalha dos Atoleiros",
+    "rule": {
+      "type": "fixed",
+      "month": 4,
+      "day": 6
+    }
+  },
+  {
+    "municipality": "Funchal",
+    "district": "Madeira",
+    "name": "Elevation to city",
+    "namePt": "Elevação a cidade",
+    "rule": {
+      "type": "fixed",
+      "month": 8,
+      "day": 21
+    }
+  },
+  {
+    "municipality": "Fundão",
+    "district": "Castelo Branco",
+    "name": "St. Lucia",
+    "namePt": "Santa Luzia",
+    "rule": {
+      "type": "fixed",
+      "month": 9,
+      "day": 15
+    }
+  },
+  {
+    "municipality": "Gavião",
+    "district": "Portalegre",
+    "name": "Manueline Charter",
+    "namePt": "Recebimento do foral manuelino",
+    "rule": {
+      "type": "fixed",
+      "month": 11,
+      "day": 23
+    }
+  },
+  {
+    "municipality": "Góis",
+    "district": "Coimbra",
+    "name": "Donation of Góis to Anaia Vestrares",
+    "namePt": "Doação de Góis a Anaia Vestrares",
+    "rule": {
+      "type": "fixed",
+      "month": 8,
+      "day": 13
+    }
+  },
+  {
+    "municipality": "Golegã",
+    "district": "Santarém",
+    "name": "Ascension Thursday",
+    "namePt": "Quinta-feira da Ascensão",
+    "rule": {
+      "type": "ascension"
+    }
+  },
+  {
+    "municipality": "Gondomar",
+    "district": "Porto",
+    "name": "Our Lady of the Rosary",
+    "namePt": "Nossa Senhora do Rosário",
+    "rule": {
+      "type": "nearest_mon",
+      "month": 10,
+      "day": 5
+    }
+  },
+  {
+    "municipality": "Gouveia",
+    "district": "Guarda",
+    "name": "Our Lord of Calvário",
+    "namePt": "Nosso Senhor do Calvário",
+    "rule": {
+      "type": "nearest_mon",
+      "month": 8,
+      "day": 10
+    }
+  },
+  {
+    "municipality": "Grândola",
+    "district": "Setúbal",
+    "name": "Foundation charter",
+    "namePt": "Criação do município através do foral",
+    "rule": {
+      "type": "fixed",
+      "month": 10,
+      "day": 22
+    }
+  },
+  {
+    "municipality": "Guarda",
+    "district": "Guarda",
+    "name": "Charter of King Sancho I",
+    "namePt": "Foral de D. Sancho I",
+    "rule": {
+      "type": "fixed",
+      "month": 11,
+      "day": 27
+    }
+  },
+  {
+    "municipality": "Guimarães",
+    "district": "Braga",
+    "name": "Battle of São Mamede",
+    "namePt": "Batalha de São Mamede",
+    "rule": {
+      "type": "fixed",
+      "month": 6,
+      "day": 24
+    }
+  },
+  {
+    "municipality": "Horta",
+    "district": "Açores",
+    "name": "St. John the Baptist",
+    "namePt": "São João Baptista",
+    "rule": {
+      "type": "fixed",
+      "month": 6,
+      "day": 24
+    }
+  },
+  {
+    "municipality": "Idanha-a-Nova",
+    "district": "Castelo Branco",
+    "name": "Our Lady of Almortão",
+    "namePt": "Nossa Senhora do Almortão",
+    "rule": {
+      "type": "nearest_mon",
+      "month": 4,
+      "day": 20
+    }
+  },
+  {
+    "municipality": "Ílhavo",
+    "district": "Aveiro",
+    "name": "Easter Monday",
+    "namePt": "Segunda-feira de Páscoa",
+    "rule": {
+      "type": "easter",
+      "offset": 1
+    }
+  },
+  {
+    "municipality": "Lagoa",
+    "district": "Açores",
+    "name": "Foundation of municipality",
+    "namePt": "Criação do município",
+    "rule": {
+      "type": "fixed",
+      "month": 4,
+      "day": 11
+    }
+  },
+  {
+    "municipality": "Lagoa",
+    "district": "Faro",
+    "name": "Our Lady of Light",
+    "namePt": "Nossa Senhora da Luz",
+    "rule": {
+      "type": "fixed",
+      "month": 9,
+      "day": 8
+    }
+  },
+  {
+    "municipality": "Lagos",
+    "district": "Faro",
+    "name": "St. Gonçalo of Lagos",
+    "namePt": "São Gonçalo de Lagos",
+    "rule": {
+      "type": "fixed",
+      "month": 10,
+      "day": 27
+    }
+  },
+  {
+    "municipality": "Lajes das Flores",
+    "district": "Açores",
+    "name": "Our Lady of the Rosary",
+    "namePt": "Nossa Senhora do Rosário",
+    "rule": {
+      "type": "nearest_mon",
+      "month": 7,
+      "day": 20
+    }
+  },
+  {
+    "municipality": "Lajes do Pico",
+    "district": "Açores",
+    "name": "Foundation of municipality",
+    "namePt": "Criação do município",
+    "rule": {
+      "type": "fixed",
+      "month": 6,
+      "day": 29
+    }
+  },
+  {
+    "municipality": "Lamego",
+    "district": "Viseu",
+    "name": "Our Lady of Remedies",
+    "namePt": "Nossa Senhora dos Remédios",
+    "rule": {
+      "type": "fixed",
+      "month": 9,
+      "day": 8
+    }
+  },
+  {
+    "municipality": "Leiria",
+    "district": "Leiria",
+    "name": "Elevation to city and founding of diocese",
+    "namePt": "Elevação a cidade e fundação da diocese",
+    "rule": {
+      "type": "fixed",
+      "month": 5,
+      "day": 22
+    }
+  },
+  {
+    "municipality": "Lisboa",
+    "district": "Lisboa",
+    "name": "St. Anthony's Day",
+    "namePt": "Santo António",
+    "rule": {
+      "type": "fixed",
+      "month": 6,
+      "day": 13
+    }
+  },
+  {
+    "municipality": "Loulé",
+    "district": "Faro",
+    "name": "Ascension Thursday",
+    "namePt": "Quinta-feira da Ascensão",
+    "rule": {
+      "type": "ascension"
+    }
+  },
+  {
+    "municipality": "Loures",
+    "district": "Lisboa",
+    "name": "Foundation of municipality",
+    "namePt": "Criação do município",
+    "rule": {
+      "type": "fixed",
+      "month": 7,
+      "day": 26
+    }
+  },
+  {
+    "municipality": "Lourinhã",
+    "district": "Lisboa",
+    "name": "St. John the Baptist",
+    "namePt": "São João Baptista",
+    "rule": {
+      "type": "fixed",
+      "month": 6,
+      "day": 24
+    }
+  },
+  {
+    "municipality": "Lousã",
+    "district": "Coimbra",
+    "name": "St. John the Baptist",
+    "namePt": "São João Baptista",
+    "rule": {
+      "type": "fixed",
+      "month": 6,
+      "day": 24
+    }
+  },
+  {
+    "municipality": "Lousada",
+    "district": "Porto",
+    "name": "Our Lord of the Afflicted",
+    "namePt": "Nosso Senhor dos Aflitos",
+    "rule": {
+      "type": "nearest_mon",
+      "month": 7,
+      "day": 27
+    }
+  },
+  {
+    "municipality": "Mação",
+    "district": "Santarém",
+    "name": "Easter Monday",
+    "namePt": "Segunda-feira de Páscoa",
+    "rule": {
+      "type": "easter",
+      "offset": 1
+    }
+  },
+  {
+    "municipality": "Macedo de Cavaleiros",
+    "district": "Bragança",
+    "name": "St. Peter",
+    "namePt": "São Pedro",
+    "rule": {
+      "type": "fixed",
+      "month": 6,
+      "day": 29
+    }
+  },
+  {
+    "municipality": "Machico",
+    "district": "Madeira",
+    "name": "Foundation of Captaincy of Machico",
+    "namePt": "Criação da Capitania de Machico",
+    "rule": {
+      "type": "fixed",
+      "month": 5,
+      "day": 8
+    }
+  },
+  {
+    "municipality": "Madalena",
+    "district": "Açores",
+    "name": "St. Mary Magdalene",
+    "namePt": "Santa Maria Madalena",
+    "rule": {
+      "type": "fixed",
+      "month": 7,
+      "day": 22
+    }
+  },
+  {
+    "municipality": "Mafra",
+    "district": "Lisboa",
+    "name": "Ascension Thursday",
+    "namePt": "Quinta-feira da Ascensão",
+    "rule": {
+      "type": "ascension"
+    }
+  },
+  {
+    "municipality": "Maia",
+    "district": "Porto",
+    "name": "Our Lady of Bom Despacho",
+    "namePt": "Nossa Senhora do Bom Despacho",
+    "rule": {
+      "type": "nearest_mon",
+      "month": 7,
+      "day": 13
+    }
+  },
+  {
+    "municipality": "Mangualde",
+    "district": "Viseu",
+    "name": "Our Lady of Castelo",
+    "namePt": "Nossa Senhora do Castelo",
+    "rule": {
+      "type": "fixed",
+      "month": 9,
+      "day": 8
+    }
+  },
+  {
+    "municipality": "Manteigas",
+    "district": "Guarda",
+    "name": "Grant of charter",
+    "namePt": "Outorgação do foral",
+    "rule": {
+      "type": "fixed",
+      "month": 3,
+      "day": 4
+    }
+  },
+  {
+    "municipality": "Marco de Canaveses",
+    "district": "Porto",
+    "name": "Our Lady of Castelinho",
+    "namePt": "Nossa Senhora do Castelinho",
+    "rule": {
+      "type": "fixed",
+      "month": 9,
+      "day": 8
+    }
+  },
+  {
+    "municipality": "Marinha Grande",
+    "district": "Leiria",
+    "name": "Ascension Thursday",
+    "namePt": "Quinta-feira da Ascensão",
+    "rule": {
+      "type": "ascension"
+    }
+  },
+  {
+    "municipality": "Marvão",
+    "district": "Portalegre",
+    "name": "Our Lady of Estrela",
+    "namePt": "Nossa Senhora da Estrela",
+    "rule": {
+      "type": "fixed",
+      "month": 9,
+      "day": 8
+    }
+  },
+  {
+    "municipality": "Matosinhos",
+    "district": "Porto",
+    "name": "Whit Tuesday",
+    "namePt": "Terça-feira de Pentecostes",
+    "rule": {
+      "type": "easter",
+      "offset": 51
+    }
+  },
+  {
+    "municipality": "Mealhada",
+    "district": "Aveiro",
+    "name": "Ascension Thursday",
+    "namePt": "Quinta-feira da Ascensão",
+    "rule": {
+      "type": "ascension"
+    }
+  },
+  {
+    "municipality": "Mêda",
+    "district": "Guarda",
+    "name": "St. Martin's Day",
+    "namePt": "São Martinho",
+    "rule": {
+      "type": "fixed",
+      "month": 11,
+      "day": 11
+    }
+  },
+  {
+    "municipality": "Melgaço",
+    "district": "Viana do Castelo",
+    "name": "Ascension Thursday",
+    "namePt": "Quinta-feira da Ascensão",
+    "rule": {
+      "type": "ascension"
+    }
+  },
+  {
+    "municipality": "Mértola",
+    "district": "Beja",
+    "name": "St. John the Baptist",
+    "namePt": "São João Baptista",
+    "rule": {
+      "type": "fixed",
+      "month": 6,
+      "day": 24
+    }
+  },
+  {
+    "municipality": "Mesão Frio",
+    "district": "Vila Real",
+    "name": "St. Andrew",
+    "namePt": "Santo André",
+    "rule": {
+      "type": "fixed",
+      "month": 11,
+      "day": 30
+    }
+  },
+  {
+    "municipality": "Mira",
+    "district": "Coimbra",
+    "name": "St. Thomas",
+    "namePt": "São Tomé",
+    "rule": {
+      "type": "fixed",
+      "month": 7,
+      "day": 25
+    }
+  },
+  {
+    "municipality": "Miranda do Corvo",
+    "district": "Coimbra",
+    "name": "Birthday of José Joaquim Pereira Falcão",
+    "namePt": "Nascimento de José Joaquim Pereira Falcão",
+    "rule": {
+      "type": "fixed",
+      "month": 6,
+      "day": 1
+    }
+  },
+  {
+    "municipality": "Miranda do Douro",
+    "district": "Bragança",
+    "name": "Elevation to city",
+    "namePt": "Elevação a cidade",
+    "rule": {
+      "type": "fixed",
+      "month": 7,
+      "day": 10
+    }
+  },
+  {
+    "municipality": "Mirandela",
+    "district": "Bragança",
+    "name": "Charter of King Afonso III (1250)",
+    "namePt": "Outorgação do Foral de D. Afonso III (1250)",
+    "rule": {
+      "type": "fixed",
+      "month": 5,
+      "day": 25
+    }
+  },
+  {
+    "municipality": "Mogadouro",
+    "district": "Bragança",
+    "name": "Feira dos Gorazes",
+    "namePt": "Feira dos Gorazes",
+    "rule": {
+      "type": "fixed",
+      "month": 10,
+      "day": 15
+    }
+  },
+  {
+    "municipality": "Moimenta da Beira",
+    "district": "Viseu",
+    "name": "St. John the Baptist",
+    "namePt": "São João Baptista",
+    "rule": {
+      "type": "fixed",
+      "month": 6,
+      "day": 24
+    }
+  },
+  {
+    "municipality": "Moita",
+    "district": "Setúbal",
+    "name": "Feast of Our Lady of Boa Viagem",
+    "namePt": "Festas em Honra de Nossa Senhora da Boa Viagem",
+    "rule": {
+      "type": "nearest_mon",
+      "month": 9,
+      "day": 15
+    }
+  },
+  {
+    "municipality": "Monção",
+    "district": "Viana do Castelo",
+    "name": "Grant of charter",
+    "namePt": "Outorgação do foral",
+    "rule": {
+      "type": "fixed",
+      "month": 3,
+      "day": 12
+    }
+  },
+  {
+    "municipality": "Monchique",
+    "district": "Faro",
+    "name": "Ascension Thursday",
+    "namePt": "Quinta-feira da Ascensão",
+    "rule": {
+      "type": "ascension"
+    }
+  },
+  {
+    "municipality": "Mondim de Basto",
+    "district": "Vila Real",
+    "name": "St. James",
+    "namePt": "São Tiago",
+    "rule": {
+      "type": "fixed",
+      "month": 7,
+      "day": 25
+    }
+  },
+  {
+    "municipality": "Monforte",
+    "district": "Portalegre",
+    "name": "Pascoela Monday (Our Lady of Prazeres)",
+    "namePt": "Segunda-feira de Pascoela (Nossa Senhora dos Prazeres)",
+    "rule": {
+      "type": "pascoela"
+    }
+  },
+  {
+    "municipality": "Montalegre",
+    "district": "Vila Real",
+    "name": "Grant of charter",
+    "namePt": "Atribuição do foral",
+    "rule": {
+      "type": "fixed",
+      "month": 6,
+      "day": 9
+    }
+  },
+  {
+    "municipality": "Montemor-o-Novo",
+    "district": "Évora",
+    "name": "St. John of God",
+    "namePt": "São João de Deus",
+    "rule": {
+      "type": "fixed",
+      "month": 3,
+      "day": 8
+    }
+  },
+  {
+    "municipality": "Montemor-o-Velho",
+    "district": "Coimbra",
+    "name": "Our Lady of Victory",
+    "namePt": "Nossa Senhora da Vitória",
+    "rule": {
+      "type": "fixed",
+      "month": 9,
+      "day": 8
+    }
+  },
+  {
+    "municipality": "Montijo",
+    "district": "Setúbal",
+    "name": "St. Peter",
+    "namePt": "São Pedro",
+    "rule": {
+      "type": "fixed",
+      "month": 6,
+      "day": 29
+    }
+  },
+  {
+    "municipality": "Mora",
+    "district": "Évora",
+    "name": "Easter Monday",
+    "namePt": "Segunda-feira de Páscoa",
+    "rule": {
+      "type": "easter",
+      "offset": 1
+    }
+  },
+  {
+    "municipality": "Mortágua",
+    "district": "Viseu",
+    "name": "Ascension Thursday",
+    "namePt": "Quinta-feira da Ascensão",
+    "rule": {
+      "type": "ascension"
+    }
+  },
+  {
+    "municipality": "Moura",
+    "district": "Beja",
+    "name": "St. John the Baptist",
+    "namePt": "São João Baptista",
+    "rule": {
+      "type": "fixed",
+      "month": 6,
+      "day": 24
+    }
+  },
+  {
+    "municipality": "Mourão",
+    "district": "Évora",
+    "name": "Our Lady of Candeias",
+    "namePt": "Nossa Senhora das Candeias",
+    "rule": {
+      "type": "fixed",
+      "month": 2,
+      "day": 2
+    }
+  },
+  {
+    "municipality": "Murça",
+    "district": "Vila Real",
+    "name": "Foundation of municipality",
+    "namePt": "Fundação do município",
+    "rule": {
+      "type": "fixed",
+      "month": 5,
+      "day": 8
+    }
+  },
+  {
+    "municipality": "Murtosa",
+    "district": "Aveiro",
+    "name": "Our Lady of the Nativity",
+    "namePt": "Nossa Senhora da Natividade",
+    "rule": {
+      "type": "fixed",
+      "month": 9,
+      "day": 8
+    }
+  },
+  {
+    "municipality": "Nazaré",
+    "district": "Leiria",
+    "name": "Our Lady of the Sands",
+    "namePt": "Nossa Senhora das Areias",
+    "rule": {
+      "type": "fixed",
+      "month": 9,
+      "day": 8
+    }
+  },
+  {
+    "municipality": "Nelas",
+    "district": "Viseu",
+    "name": "St. John the Baptist",
+    "namePt": "São João Baptista",
+    "rule": {
+      "type": "fixed",
+      "month": 6,
+      "day": 24
+    }
+  },
+  {
+    "municipality": "Nisa",
+    "district": "Portalegre",
+    "name": "Our Lady of Grace (Easter Monday)",
+    "namePt": "Nossa Senhora da Graça",
+    "rule": {
+      "type": "easter",
+      "offset": 1
+    }
+  },
+  {
+    "municipality": "Nordeste",
+    "district": "Açores",
+    "name": "Foundation of municipality (1514)",
+    "namePt": "Fundação do município (1514)",
+    "rule": {
+      "type": "fixed",
+      "month": 7,
+      "day": 18
+    }
+  },
+  {
+    "municipality": "Óbidos",
+    "district": "Leiria",
+    "name": "Taking of Óbidos from the Moors",
+    "namePt": "Tomada de Óbidos aos mouros",
+    "rule": {
+      "type": "fixed",
+      "month": 1,
+      "day": 11
+    }
+  },
+  {
+    "municipality": "Odemira",
+    "district": "Beja",
+    "name": "Our Lady of Piety",
+    "namePt": "Nossa Senhora da Piedade",
+    "rule": {
+      "type": "fixed",
+      "month": 9,
+      "day": 8
+    }
+  },
+  {
+    "municipality": "Odivelas",
+    "district": "Lisboa",
+    "name": "Foundation of municipality",
+    "namePt": "Criação do município",
+    "rule": {
+      "type": "fixed",
+      "month": 11,
+      "day": 19
+    }
+  },
+  {
+    "municipality": "Oeiras",
+    "district": "Lisboa",
+    "name": "Foundation of municipality",
+    "namePt": "Criação do município",
+    "rule": {
+      "type": "fixed",
+      "month": 6,
+      "day": 7
+    }
+  },
+  {
+    "municipality": "Oleiros",
+    "district": "Castelo Branco",
+    "name": "St. Margaret",
+    "namePt": "Santa Margarida",
+    "rule": {
+      "type": "nearest_mon",
+      "month": 8,
+      "day": 10
+    }
+  },
+  {
+    "municipality": "Olhão",
+    "district": "Faro",
+    "name": "Revolt of Olhão against the French",
+    "namePt": "Revolta de Olhão contra os Franceses",
+    "rule": {
+      "type": "fixed",
+      "month": 6,
+      "day": 16
+    }
+  },
+  {
+    "municipality": "Oliveira de Azeméis",
+    "district": "Aveiro",
+    "name": "Our Lady of La Salette",
+    "namePt": "Nossa Senhora de La Salette",
+    "rule": {
+      "type": "nearest_mon",
+      "month": 8,
+      "day": 10
+    }
+  },
+  {
+    "municipality": "Oliveira de Frades",
+    "district": "Viseu",
+    "name": "Restoration of municipality",
+    "namePt": "Restauração do município",
+    "rule": {
+      "type": "fixed",
+      "month": 10,
+      "day": 7
+    }
+  },
+  {
+    "municipality": "Oliveira do Bairro",
+    "district": "Aveiro",
+    "name": "Ascension Thursday",
+    "namePt": "Quinta-feira da Ascensão",
+    "rule": {
+      "type": "ascension"
+    }
+  },
+  {
+    "municipality": "Oliveira do Hospital",
+    "district": "Coimbra",
+    "name": "News of the Republic",
+    "namePt": "Recebimento da notícia da Implantação da República",
+    "rule": {
+      "type": "fixed",
+      "month": 10,
+      "day": 7
+    }
+  },
+  {
+    "municipality": "Ourém",
+    "district": "Santarém",
+    "name": "Elevation to city",
+    "namePt": "Elevação a cidade",
+    "rule": {
+      "type": "fixed",
+      "month": 6,
+      "day": 20
+    }
+  },
+  {
+    "municipality": "Ourique",
+    "district": "Beja",
+    "name": "Our Lady of Cola",
+    "namePt": "Nossa Senhora da Cola",
+    "rule": {
+      "type": "fixed",
+      "month": 9,
+      "day": 8
+    }
+  },
+  {
+    "municipality": "Ovar",
+    "district": "Aveiro",
+    "name": "St. Christopher",
+    "namePt": "São Cristóvão",
+    "rule": {
+      "type": "fixed",
+      "month": 7,
+      "day": 25
+    }
+  },
+  {
+    "municipality": "Paços de Ferreira",
+    "district": "Porto",
+    "name": "Foundation of municipality",
+    "namePt": "Criação do município",
+    "rule": {
+      "type": "fixed",
+      "month": 11,
+      "day": 6
+    }
+  },
+  {
+    "municipality": "Palmela",
+    "district": "Setúbal",
+    "name": "Manueline charter",
+    "namePt": "Atribuição do foral manuelino",
+    "rule": {
+      "type": "fixed",
+      "month": 6,
+      "day": 1
+    }
+  },
+  {
+    "municipality": "Pampilhosa da Serra",
+    "district": "Coimbra",
+    "name": "Restoration of exempt town status",
+    "namePt": "Restauração dos títulos de vila isenta",
+    "rule": {
+      "type": "fixed",
+      "month": 4,
+      "day": 10
+    }
+  },
+  {
+    "municipality": "Paredes de Coura",
+    "district": "Viana do Castelo",
+    "name": "St. Lawrence",
+    "namePt": "São Lourenço",
+    "rule": {
+      "type": "fixed",
+      "month": 8,
+      "day": 10
+    }
+  },
+  {
+    "municipality": "Paredes",
+    "district": "Porto",
+    "name": "Divine Saviour",
+    "namePt": "Divino Salvador",
+    "rule": {
+      "type": "nearest_mon",
+      "month": 7,
+      "day": 20
+    }
+  },
+  {
+    "municipality": "Pedrógão Grande",
+    "district": "Leiria",
+    "name": "Foundation of municipality",
+    "namePt": "Criação do município",
+    "rule": {
+      "type": "fixed",
+      "month": 7,
+      "day": 24
+    }
+  },
+  {
+    "municipality": "Penacova",
+    "district": "Coimbra",
+    "name": "Birthday of António José de Almeida",
+    "namePt": "Nascimento de António José de Almeida",
+    "rule": {
+      "type": "fixed",
+      "month": 7,
+      "day": 17
+    }
+  },
+  {
+    "municipality": "Penafiel",
+    "district": "Porto",
+    "name": "St. Martin's Day",
+    "namePt": "São Martinho",
+    "rule": {
+      "type": "fixed",
+      "month": 11,
+      "day": 11
+    }
+  },
+  {
+    "municipality": "Penalva do Castelo",
+    "district": "Viseu",
+    "name": "St. Genesius",
+    "namePt": "São Genésio",
+    "rule": {
+      "type": "fixed",
+      "month": 8,
+      "day": 25
+    }
+  },
+  {
+    "municipality": "Penamacor",
+    "district": "Castelo Branco",
+    "name": "Easter Monday",
+    "namePt": "Segunda-feira de Páscoa",
+    "rule": {
+      "type": "easter",
+      "offset": 1
+    }
+  },
+  {
+    "municipality": "Penedono",
+    "district": "Viseu",
+    "name": "St. Peter",
+    "namePt": "São Pedro",
+    "rule": {
+      "type": "fixed",
+      "month": 6,
+      "day": 29
+    }
+  },
+  {
+    "municipality": "Penela",
+    "district": "Coimbra",
+    "name": "St. Michael the Archangel",
+    "namePt": "São Miguel Arcanjo",
+    "rule": {
+      "type": "fixed",
+      "month": 9,
+      "day": 29
+    }
+  },
+  {
+    "municipality": "Peniche",
+    "district": "Leiria",
+    "name": "Our Lady of Boa Viagem",
+    "namePt": "Nossa Senhora da Boa Viagem",
+    "rule": {
+      "type": "nearest_mon",
+      "month": 8,
+      "day": 3
+    }
+  },
+  {
+    "municipality": "Peso da Régua",
+    "district": "Vila Real",
+    "name": "Our Lady of Socorro",
+    "namePt": "Nossa Senhora do Socorro",
+    "rule": {
+      "type": "fixed",
+      "month": 8,
+      "day": 16
+    }
+  },
+  {
+    "municipality": "Pinhel",
+    "district": "Guarda",
+    "name": "Elevation to city",
+    "namePt": "Elevação a cidade",
+    "rule": {
+      "type": "fixed",
+      "month": 8,
+      "day": 25
+    }
+  },
+  {
+    "municipality": "Pombal",
+    "district": "Leiria",
+    "name": "St. Martin's Day",
+    "namePt": "São Martinho",
+    "rule": {
+      "type": "fixed",
+      "month": 11,
+      "day": 11
+    }
+  },
+  {
+    "municipality": "Ponta Delgada",
+    "district": "Açores",
+    "name": "Senhor Santo Cristo dos Milagres",
+    "namePt": "Senhor Santo Cristo dos Milagres",
+    "rule": {
+      "type": "easter",
+      "offset": 50
+    }
+  },
+  {
+    "municipality": "Ponta do Sol",
+    "district": "Madeira",
+    "name": "Our Lady of Light",
+    "namePt": "Nossa Senhora da Luz",
+    "rule": {
+      "type": "fixed",
+      "month": 9,
+      "day": 8
+    }
+  },
+  {
+    "municipality": "Ponte da Barca",
+    "district": "Viana do Castelo",
+    "name": "St. Bartholomew",
+    "namePt": "São Bartolomeu",
+    "rule": {
+      "type": "fixed",
+      "month": 8,
+      "day": 24
+    }
+  },
+  {
+    "municipality": "Ponte de Lima",
+    "district": "Viana do Castelo",
+    "name": "Our Lady of Sorrows",
+    "namePt": "Nossa Senhora das Dores",
+    "rule": {
+      "type": "fixed",
+      "month": 9,
+      "day": 20
+    }
+  },
+  {
+    "municipality": "Ponte de Sor",
+    "district": "Portalegre",
+    "name": "Easter Monday",
+    "namePt": "Segunda-feira de Páscoa",
+    "rule": {
+      "type": "easter",
+      "offset": 1
+    }
+  },
+  {
+    "municipality": "Portalegre",
+    "district": "Portalegre",
+    "name": "Elevation to city and founding of diocese",
+    "namePt": "Elevação a cidade e fundação da diocese",
+    "rule": {
+      "type": "fixed",
+      "month": 5,
+      "day": 23
+    }
+  },
+  {
+    "municipality": "Portel",
+    "district": "Évora",
+    "name": "Easter Monday",
+    "namePt": "Segunda-feira de Páscoa",
+    "rule": {
+      "type": "easter",
+      "offset": 1
+    }
+  },
+  {
+    "municipality": "Portimão",
+    "district": "Faro",
+    "name": "Elevation to city",
+    "namePt": "Elevação a cidade",
+    "rule": {
+      "type": "fixed",
+      "month": 12,
+      "day": 11
+    }
+  },
+  {
+    "municipality": "Porto de Mós",
+    "district": "Leiria",
+    "name": "St. Peter",
+    "namePt": "São Pedro",
+    "rule": {
+      "type": "fixed",
+      "month": 6,
+      "day": 29
+    }
+  },
+  {
+    "municipality": "Porto Moniz",
+    "district": "Madeira",
+    "name": "St. Mary Magdalene",
+    "namePt": "Santa Maria Madalena",
+    "rule": {
+      "type": "fixed",
+      "month": 7,
+      "day": 22
+    }
+  },
+  {
+    "municipality": "Porto Santo",
+    "district": "Madeira",
+    "name": "Foundation of municipality",
+    "namePt": "Criação do município",
+    "rule": {
+      "type": "fixed",
+      "month": 6,
+      "day": 24
+    }
+  },
+  {
+    "municipality": "Porto",
+    "district": "Porto",
+    "name": "St. John the Baptist",
+    "namePt": "São João Baptista",
+    "rule": {
+      "type": "fixed",
+      "month": 6,
+      "day": 24
+    }
+  },
+  {
+    "municipality": "Póvoa de Lanhoso",
+    "district": "Braga",
+    "name": "St. Joseph",
+    "namePt": "São José",
+    "rule": {
+      "type": "fixed",
+      "month": 3,
+      "day": 19
+    }
+  },
+  {
+    "municipality": "Póvoa de Varzim",
+    "district": "Porto",
+    "name": "St. Peter",
+    "namePt": "São Pedro",
+    "rule": {
+      "type": "fixed",
+      "month": 6,
+      "day": 29
+    }
+  },
+  {
+    "municipality": "Povoação",
+    "district": "Açores",
+    "name": "Octave of Corpus Christi",
+    "namePt": "Oitava do Corpo de Deus",
+    "rule": {
+      "type": "easter",
+      "offset": 67
+    }
+  },
+  {
+    "municipality": "Praia da Vitória",
+    "district": "Açores",
+    "name": "Elevation to city",
+    "namePt": "Elevação a cidade",
+    "rule": {
+      "type": "fixed",
+      "month": 6,
+      "day": 20
+    }
+  },
+  {
+    "municipality": "Proença-a-Nova",
+    "district": "Castelo Branco",
+    "name": "St. Anthony's Day",
+    "namePt": "Santo António",
+    "rule": {
+      "type": "fixed",
+      "month": 6,
+      "day": 13
+    }
+  },
+  {
+    "municipality": "Redondo",
+    "district": "Évora",
+    "name": "Easter Monday",
+    "namePt": "Segunda-feira de Páscoa",
+    "rule": {
+      "type": "easter",
+      "offset": 1
+    }
+  },
+  {
+    "municipality": "Reguengos de Monsaraz",
+    "district": "Évora",
+    "name": "St. Anthony's Day",
+    "namePt": "Santo António",
+    "rule": {
+      "type": "fixed",
+      "month": 6,
+      "day": 13
+    }
+  },
+  {
+    "municipality": "Resende",
+    "district": "Viseu",
+    "name": "St. Michael the Archangel",
+    "namePt": "São Miguel Arcanjo",
+    "rule": {
+      "type": "fixed",
+      "month": 9,
+      "day": 29
+    }
+  },
+  {
+    "municipality": "Ribeira Brava",
+    "district": "Madeira",
+    "name": "St. Peter",
+    "namePt": "São Pedro",
+    "rule": {
+      "type": "fixed",
+      "month": 6,
+      "day": 29
+    }
+  },
+  {
+    "municipality": "Ribeira de Pena",
+    "district": "Vila Real",
+    "name": "Our Lady of Socorro",
+    "namePt": "Nossa Senhora do Socorro",
+    "rule": {
+      "type": "fixed",
+      "month": 8,
+      "day": 16
+    }
+  },
+  {
+    "municipality": "Ribeira Grande",
+    "district": "Açores",
+    "name": "St. Peter",
+    "namePt": "São Pedro",
+    "rule": {
+      "type": "fixed",
+      "month": 6,
+      "day": 29
+    }
+  },
+  {
+    "municipality": "Rio Maior",
+    "district": "Santarém",
+    "name": "Foundation of municipality",
+    "namePt": "Criação do município",
+    "rule": {
+      "type": "fixed",
+      "month": 11,
+      "day": 6
+    }
+  },
+  {
+    "municipality": "Sabrosa",
+    "district": "Vila Real",
+    "name": "Our Lady of the Rosary",
+    "namePt": "Nossa Senhora do Rosário",
+    "rule": {
+      "type": "fixed",
+      "month": 9,
+      "day": 8
+    }
+  },
+  {
+    "municipality": "Sabugal",
+    "district": "Guarda",
+    "name": "Pascoela Monday (Our Lady of Grace)",
+    "namePt": "Segunda-feira de Pascoela (Nossa Senhora da Graça)",
+    "rule": {
+      "type": "pascoela"
+    }
+  },
+  {
+    "municipality": "Salvaterra de Magos",
+    "district": "Santarém",
+    "name": "Ascension Thursday",
+    "namePt": "Quinta-feira da Ascensão",
+    "rule": {
+      "type": "ascension"
+    }
+  },
+  {
+    "municipality": "Santa Comba Dão",
+    "district": "Viseu",
+    "name": "Ascension Thursday",
+    "namePt": "Quinta-feira da Ascensão",
+    "rule": {
+      "type": "ascension"
+    }
+  },
+  {
+    "municipality": "Santa Cruz da Graciosa",
+    "district": "Açores",
+    "name": "Senhor Santo Cristo dos Milagres",
+    "namePt": "Senhor Santo Cristo dos Milagres",
+    "rule": {
+      "type": "nearest_mon",
+      "month": 8,
+      "day": 10
+    }
+  },
+  {
+    "municipality": "Santa Cruz das Flores",
+    "district": "Açores",
+    "name": "St. John the Baptist",
+    "namePt": "São João Baptista",
+    "rule": {
+      "type": "fixed",
+      "month": 6,
+      "day": 24
+    }
+  },
+  {
+    "municipality": "Santa Cruz",
+    "district": "Madeira",
+    "name": "St. Amaro",
+    "namePt": "Santo Amaro",
+    "rule": {
+      "type": "fixed",
+      "month": 1,
+      "day": 15
+    }
+  },
+  {
+    "municipality": "Santa Maria da Feira",
+    "district": "Aveiro",
+    "name": "St. Sebastian",
+    "namePt": "São Sebastião",
+    "rule": {
+      "type": "fixed",
+      "month": 1,
+      "day": 20
+    }
+  },
+  {
+    "municipality": "Santa Marta de Penaguião",
+    "district": "Vila Real",
+    "name": "Restoration of municipality",
+    "namePt": "Restauração do município",
+    "rule": {
+      "type": "fixed",
+      "month": 1,
+      "day": 13
+    }
+  },
+  {
+    "municipality": "Santana",
+    "district": "Madeira",
+    "name": "Foundation of municipality (1835)",
+    "namePt": "Fundação do município (1835)",
+    "rule": {
+      "type": "fixed",
+      "month": 5,
+      "day": 25
+    }
+  },
+  {
+    "municipality": "Santarém",
+    "district": "Santarém",
+    "name": "St. Joseph's Day",
+    "namePt": "São José",
+    "rule": {
+      "type": "fixed",
+      "month": 3,
+      "day": 19
+    }
+  },
+  {
+    "municipality": "Santiago do Cacém",
+    "district": "Setúbal",
+    "name": "St. James",
+    "namePt": "São Tiago",
+    "rule": {
+      "type": "fixed",
+      "month": 7,
+      "day": 25
+    }
+  },
+  {
+    "municipality": "Santo Tirso",
+    "district": "Porto",
+    "name": "St. Benedict",
+    "namePt": "São Bento",
+    "rule": {
+      "type": "fixed",
+      "month": 7,
+      "day": 11
+    }
+  },
+  {
+    "municipality": "São Brás de Alportel",
+    "district": "Faro",
+    "name": "Elevation to municipality",
+    "namePt": "Elevação a município",
+    "rule": {
+      "type": "fixed",
+      "month": 6,
+      "day": 1
+    }
+  },
+  {
+    "municipality": "São João da Madeira",
+    "district": "Aveiro",
+    "name": "Elevation to city and foundation",
+    "namePt": "Elevação a cidade e fundação do município",
+    "rule": {
+      "type": "fixed",
+      "month": 10,
+      "day": 11
+    }
+  },
+  {
+    "municipality": "São João da Pesqueira",
+    "district": "Viseu",
+    "name": "St. John the Baptist",
+    "namePt": "São João Baptista",
+    "rule": {
+      "type": "fixed",
+      "month": 6,
+      "day": 24
+    }
+  },
+  {
+    "municipality": "São Pedro do Sul",
+    "district": "Viseu",
+    "name": "St. Peter",
+    "namePt": "São Pedro",
+    "rule": {
+      "type": "fixed",
+      "month": 6,
+      "day": 29
+    }
+  },
+  {
+    "municipality": "São Roque do Pico",
+    "district": "Açores",
+    "name": "St. Roch",
+    "namePt": "São Roque",
+    "rule": {
+      "type": "fixed",
+      "month": 8,
+      "day": 16
+    }
+  },
+  {
+    "municipality": "São Vicente",
+    "district": "Madeira",
+    "name": "St. Vincent",
+    "namePt": "São Vicente",
+    "rule": {
+      "type": "fixed",
+      "month": 1,
+      "day": 22
+    }
+  },
+  {
+    "municipality": "Sardoal",
+    "district": "Santarém",
+    "name": "Elevation to town",
+    "namePt": "Elevação à categoria de vila",
+    "rule": {
+      "type": "fixed",
+      "month": 9,
+      "day": 22
+    }
+  },
+  {
+    "municipality": "Sátão",
+    "district": "Viseu",
+    "name": "St. Bernard",
+    "namePt": "São Bernardo",
+    "rule": {
+      "type": "fixed",
+      "month": 8,
+      "day": 20
+    }
+  },
+  {
+    "municipality": "Seia",
+    "district": "Guarda",
+    "name": "Elevation to city",
+    "namePt": "Elevação a cidade",
+    "rule": {
+      "type": "fixed",
+      "month": 7,
+      "day": 3
+    }
+  },
+  {
+    "municipality": "Seixal",
+    "district": "Setúbal",
+    "name": "St. Peter",
+    "namePt": "São Pedro",
+    "rule": {
+      "type": "fixed",
+      "month": 6,
+      "day": 29
+    }
+  },
+  {
+    "municipality": "Sernancelhe",
+    "district": "Viseu",
+    "name": "Feast of Our Lady at the Foot of the Cross",
+    "namePt": "Festa de N.ª Srª ao Pé da Cruz",
+    "rule": {
+      "type": "fixed",
+      "month": 5,
+      "day": 3
+    }
+  },
+  {
+    "municipality": "Serpa",
+    "district": "Beja",
+    "name": "Our Lady of Guadalupe",
+    "namePt": "Nossa Senhora de Guadalupe",
+    "rule": {
+      "type": "easter",
+      "offset": 2
+    }
+  },
+  {
+    "municipality": "Sertã",
+    "district": "Castelo Branco",
+    "name": "St. Nuno de Santa Maria",
+    "namePt": "São Nuno de Santa Maria",
+    "rule": {
+      "type": "fixed",
+      "month": 6,
+      "day": 24
+    }
+  },
+  {
+    "municipality": "Sesimbra",
+    "district": "Setúbal",
+    "name": "Our Lord Jesus of the Wounds",
+    "namePt": "Nosso Senhor Jesus das Chagas",
+    "rule": {
+      "type": "fixed",
+      "month": 5,
+      "day": 4
+    }
+  },
+  {
+    "municipality": "Setúbal",
+    "district": "Setúbal",
+    "name": "Birthday of Bocage",
+    "namePt": "Nascimento de Bocage",
+    "rule": {
+      "type": "fixed",
+      "month": 9,
+      "day": 15
+    }
+  },
+  {
+    "municipality": "Sever do Vouga",
+    "district": "Aveiro",
+    "name": "St. Matthew",
+    "namePt": "São Mateus",
+    "rule": {
+      "type": "fixed",
+      "month": 9,
+      "day": 21
+    }
+  },
+  {
+    "municipality": "Silves",
+    "district": "Faro",
+    "name": "Conquest of the city from the Moors",
+    "namePt": "Conquista da cidade aos mouros",
+    "rule": {
+      "type": "fixed",
+      "month": 9,
+      "day": 3
+    }
+  },
+  {
+    "municipality": "Sines",
+    "district": "Setúbal",
+    "name": "Elevation to town",
+    "namePt": "Elevação a vila",
+    "rule": {
+      "type": "fixed",
+      "month": 11,
+      "day": 24
+    }
+  },
+  {
+    "municipality": "Sintra",
+    "district": "Lisboa",
+    "name": "St. Peter",
+    "namePt": "São Pedro",
+    "rule": {
+      "type": "fixed",
+      "month": 6,
+      "day": 29
+    }
+  },
+  {
+    "municipality": "Sobral de Monte Agraço",
+    "district": "Lisboa",
+    "name": "Ascension Thursday",
+    "namePt": "Quinta-feira da Ascensão",
+    "rule": {
+      "type": "ascension"
+    }
+  },
+  {
+    "municipality": "Soure",
+    "district": "Coimbra",
+    "name": "St. Matthew",
+    "namePt": "São Mateus",
+    "rule": {
+      "type": "fixed",
+      "month": 9,
+      "day": 21
+    }
+  },
+  {
+    "municipality": "Sousel",
+    "district": "Portalegre",
+    "name": "Our Lady of Carmo (Easter Monday)",
+    "namePt": "Nossa Senhora do Carmo da Serra de São Miguel",
+    "rule": {
+      "type": "easter",
+      "offset": 1
+    }
+  },
+  {
+    "municipality": "Tábua",
+    "district": "Coimbra",
+    "name": "Restoration of the County",
+    "namePt": "Restauração da Comarca",
+    "rule": {
+      "type": "fixed",
+      "month": 4,
+      "day": 10
+    }
+  },
+  {
+    "municipality": "Tabuaço",
+    "district": "Viseu",
+    "name": "St. John the Baptist",
+    "namePt": "São João Baptista",
+    "rule": {
+      "type": "fixed",
+      "month": 6,
+      "day": 24
+    }
+  },
+  {
+    "municipality": "Tarouca",
+    "district": "Viseu",
+    "name": "St. Michael the Archangel",
+    "namePt": "São Miguel Arcanjo",
+    "rule": {
+      "type": "fixed",
+      "month": 9,
+      "day": 29
+    }
+  },
+  {
+    "municipality": "Tavira",
+    "district": "Faro",
+    "name": "St. John the Baptist",
+    "namePt": "São João Baptista",
+    "rule": {
+      "type": "fixed",
+      "month": 6,
+      "day": 24
+    }
+  },
+  {
+    "municipality": "Terras de Bouro",
+    "district": "Braga",
+    "name": "Charter of King Manuel I",
+    "namePt": "Foral de D. Manuel I",
+    "rule": {
+      "type": "fixed",
+      "month": 10,
+      "day": 20
+    }
+  },
+  {
+    "municipality": "Tomar",
+    "district": "Santarém",
+    "name": "Foundation of the Templar Castle",
+    "namePt": "Fundação do Castelo Templário",
+    "rule": {
+      "type": "fixed",
+      "month": 3,
+      "day": 1
+    }
+  },
+  {
+    "municipality": "Tondela",
+    "district": "Viseu",
+    "name": "St. Euphemia",
+    "namePt": "Santa Eufémia",
+    "rule": {
+      "type": "fixed",
+      "month": 9,
+      "day": 16
+    }
+  },
+  {
+    "municipality": "Torre de Moncorvo",
+    "district": "Bragança",
+    "name": "St. Joseph",
+    "namePt": "São José",
+    "rule": {
+      "type": "fixed",
+      "month": 3,
+      "day": 19
+    }
+  },
+  {
+    "municipality": "Torres Novas",
+    "district": "Santarém",
+    "name": "Ascension Thursday",
+    "namePt": "Quinta-feira da Ascensão",
+    "rule": {
+      "type": "ascension"
+    }
+  },
+  {
+    "municipality": "Torres Vedras",
+    "district": "Lisboa",
+    "name": "St. Martin's Day",
+    "namePt": "São Martinho",
+    "rule": {
+      "type": "fixed",
+      "month": 11,
+      "day": 11
+    }
+  },
+  {
+    "municipality": "Trancoso",
+    "district": "Guarda",
+    "name": "Battle of São Marcos (1385)",
+    "namePt": "Batalha de São Marcos (1385)",
+    "rule": {
+      "type": "fixed",
+      "month": 5,
+      "day": 29
+    }
+  },
+  {
+    "municipality": "Trofa",
+    "district": "Porto",
+    "name": "Foundation of municipality",
+    "namePt": "Criação do município",
+    "rule": {
+      "type": "fixed",
+      "month": 11,
+      "day": 19
+    }
+  },
+  {
+    "municipality": "Vagos",
+    "district": "Aveiro",
+    "name": "Pentecost / Holy Spirit",
+    "namePt": "Pentecostes / Divino Espírito Santo",
+    "rule": {
+      "type": "pentecost"
+    }
+  },
+  {
+    "municipality": "Vale de Cambra",
+    "district": "Aveiro",
+    "name": "St. Anthony's Day",
+    "namePt": "Santo António",
+    "rule": {
+      "type": "fixed",
+      "month": 6,
+      "day": 13
+    }
+  },
+  {
+    "municipality": "Valença do Minho",
+    "district": "Viana do Castelo",
+    "name": "St. Teotonius",
+    "namePt": "São Teotónio",
+    "rule": {
+      "type": "fixed",
+      "month": 2,
+      "day": 18
+    }
+  },
+  {
+    "municipality": "Valongo",
+    "district": "Porto",
+    "name": "St. John the Baptist",
+    "namePt": "São João Baptista",
+    "rule": {
+      "type": "fixed",
+      "month": 6,
+      "day": 24
+    }
+  },
+  {
+    "municipality": "Valpaços",
+    "district": "Vila Real",
+    "name": "Foundation of municipality",
+    "namePt": "Criação do município",
+    "rule": {
+      "type": "fixed",
+      "month": 11,
+      "day": 6
+    }
+  },
+  {
+    "municipality": "Velas",
+    "district": "Açores",
+    "name": "St. George",
+    "namePt": "São Jorge",
+    "rule": {
+      "type": "fixed",
+      "month": 4,
+      "day": 23
+    }
+  },
+  {
+    "municipality": "Vendas Novas",
+    "district": "Évora",
+    "name": "Elevation to municipality",
+    "namePt": "Elevação a município",
+    "rule": {
+      "type": "fixed",
+      "month": 9,
+      "day": 7
+    }
+  },
+  {
+    "municipality": "Viana do Alentejo",
+    "district": "Évora",
+    "name": "Restoration of municipality",
+    "namePt": "Restauração do município",
+    "rule": {
+      "type": "fixed",
+      "month": 1,
+      "day": 13
+    }
+  },
+  {
+    "municipality": "Viana do Castelo",
+    "district": "Viana do Castelo",
+    "name": "Our Lady of Agony",
+    "namePt": "Nossa Senhora da Agonia",
+    "rule": {
+      "type": "fixed",
+      "month": 8,
+      "day": 20
+    }
+  },
+  {
+    "municipality": "Vidigueira",
+    "district": "Beja",
+    "name": "Ascension Thursday",
+    "namePt": "Quinta-feira da Ascensão",
+    "rule": {
+      "type": "ascension"
+    }
+  },
+  {
+    "municipality": "Vieira do Minho",
+    "district": "Braga",
+    "name": "Feira da Ladra",
+    "namePt": "Feira da Ladra",
+    "rule": {
+      "type": "nearest_mon",
+      "month": 10,
+      "day": 5
+    }
+  },
+  {
+    "municipality": "Vila de Rei",
+    "district": "Castelo Branco",
+    "name": "Charter of King Dinis",
+    "namePt": "Recebimento do foral de D. Dinis",
+    "rule": {
+      "type": "fixed",
+      "month": 9,
+      "day": 19
+    }
+  },
+  {
+    "municipality": "Vila do Bispo",
+    "district": "Faro",
+    "name": "St. Vincent",
+    "namePt": "São Vicente",
+    "rule": {
+      "type": "fixed",
+      "month": 1,
+      "day": 22
+    }
+  },
+  {
+    "municipality": "Vila do Conde",
+    "district": "Porto",
+    "name": "St. John the Baptist",
+    "namePt": "São João Baptista",
+    "rule": {
+      "type": "fixed",
+      "month": 6,
+      "day": 24
+    }
+  },
+  {
+    "municipality": "Vila do Porto",
+    "district": "Açores",
+    "name": "St. John the Baptist",
+    "namePt": "São João Baptista",
+    "rule": {
+      "type": "fixed",
+      "month": 6,
+      "day": 24
+    }
+  },
+  {
+    "municipality": "Vila Flor",
+    "district": "Bragança",
+    "name": "St. Bartholomew",
+    "namePt": "São Bartolomeu",
+    "rule": {
+      "type": "fixed",
+      "month": 8,
+      "day": 24
+    }
+  },
+  {
+    "municipality": "Vila Franca de Xira",
+    "district": "Lisboa",
+    "name": "Ascension Thursday",
+    "namePt": "Quinta-feira da Ascensão",
+    "rule": {
+      "type": "ascension"
+    }
+  },
+  {
+    "municipality": "Vila Franca do Campo",
+    "district": "Açores",
+    "name": "St. John the Baptist",
+    "namePt": "São João Baptista",
+    "rule": {
+      "type": "fixed",
+      "month": 6,
+      "day": 24
+    }
+  },
+  {
+    "municipality": "Vila Nova da Barquinha",
+    "district": "Santarém",
+    "name": "St. Anthony's Day",
+    "namePt": "Santo António",
+    "rule": {
+      "type": "fixed",
+      "month": 6,
+      "day": 13
+    }
+  },
+  {
+    "municipality": "Vila Nova de Cerveira",
+    "district": "Viana do Castelo",
+    "name": "Manueline charter",
+    "namePt": "Recebimento do foral manuelino",
+    "rule": {
+      "type": "fixed",
+      "month": 10,
+      "day": 1
+    }
+  },
+  {
+    "municipality": "Vila Nova de Famalicão",
+    "district": "Braga",
+    "name": "St. Anthony's Day",
+    "namePt": "Santo António",
+    "rule": {
+      "type": "fixed",
+      "month": 6,
+      "day": 13
+    }
+  },
+  {
+    "municipality": "Vila Nova de Foz Côa",
+    "district": "Guarda",
+    "name": "Charter of King Dinis",
+    "namePt": "Outorgação do foral de D. Dinis",
+    "rule": {
+      "type": "fixed",
+      "month": 5,
+      "day": 21
+    }
+  },
+  {
+    "municipality": "Vila Nova de Gaia",
+    "district": "Porto",
+    "name": "St. John the Baptist",
+    "namePt": "São João Baptista",
+    "rule": {
+      "type": "fixed",
+      "month": 6,
+      "day": 24
+    }
+  },
+  {
+    "municipality": "Vila Nova de Paiva",
+    "district": "Viseu",
+    "name": "Foundation of municipality seat",
+    "namePt": "Estabelecimento e denominação da sede de concelho",
+    "rule": {
+      "type": "fixed",
+      "month": 3,
+      "day": 2
+    }
+  },
+  {
+    "municipality": "Vila Nova de Poiares",
+    "district": "Coimbra",
+    "name": "Restoration of municipality",
+    "namePt": "Restauração do município",
+    "rule": {
+      "type": "fixed",
+      "month": 1,
+      "day": 13
+    }
+  },
+  {
+    "municipality": "Vila Nova do Corvo",
+    "district": "Açores",
+    "name": "Elevation to town and seat",
+    "namePt": "Elevação a vila e sede de concelho",
+    "rule": {
+      "type": "fixed",
+      "month": 6,
+      "day": 20
+    }
+  },
+  {
+    "municipality": "Vila Pouca de Aguiar",
+    "district": "Vila Real",
+    "name": "Manueline charter",
+    "namePt": "Atribuição do foral manuelino",
+    "rule": {
+      "type": "fixed",
+      "month": 6,
+      "day": 22
+    }
+  },
+  {
+    "municipality": "Vila Real de Santo António",
+    "district": "Faro",
+    "name": "Elevation to city",
+    "namePt": "Elevação a cidade",
+    "rule": {
+      "type": "fixed",
+      "month": 5,
+      "day": 13
+    }
+  },
+  {
+    "municipality": "Vila Real",
+    "district": "Vila Real",
+    "name": "St. Anthony's Day",
+    "namePt": "Santo António",
+    "rule": {
+      "type": "fixed",
+      "month": 6,
+      "day": 13
+    }
+  },
+  {
+    "municipality": "Vila Velha de Ródão",
+    "district": "Castelo Branco",
+    "name": "Our Lady of Alagada",
+    "namePt": "Nossa Senhora da Alagada",
+    "rule": {
+      "type": "nearest_mon",
+      "month": 8,
+      "day": 24
+    }
+  },
+  {
+    "municipality": "Vila Verde",
+    "district": "Braga",
+    "name": "St. Anthony's Day",
+    "namePt": "Santo António",
+    "rule": {
+      "type": "fixed",
+      "month": 6,
+      "day": 13
+    }
+  },
+  {
+    "municipality": "Vila Viçosa",
+    "district": "Évora",
+    "name": "Birthday of Couto Jardim",
+    "namePt": "Nascimento de Couto Jardim",
+    "rule": {
+      "type": "fixed",
+      "month": 8,
+      "day": 16
+    }
+  },
+  {
+    "municipality": "Vimioso",
+    "district": "Bragança",
+    "name": "St. Lawrence",
+    "namePt": "São Lourenço",
+    "rule": {
+      "type": "fixed",
+      "month": 8,
+      "day": 10
+    }
+  },
+  {
+    "municipality": "Vinhais",
+    "district": "Bragança",
+    "name": "Manueline charter",
+    "namePt": "Outorgação do foral manuelino",
+    "rule": {
+      "type": "fixed",
+      "month": 5,
+      "day": 20
+    }
+  },
+  {
+    "municipality": "Viseu",
+    "district": "Viseu",
+    "name": "St. Matthew",
+    "namePt": "São Mateus",
+    "rule": {
+      "type": "fixed",
+      "month": 9,
+      "day": 21
+    }
+  },
+  {
+    "municipality": "Vizela",
+    "district": "Braga",
+    "name": "Restoration of municipality",
+    "namePt": "Restauração do município",
+    "rule": {
+      "type": "fixed",
+      "month": 3,
+      "day": 19
+    }
+  },
+  {
+    "municipality": "Vouzela",
+    "district": "Viseu",
+    "name": "São Frei Gil (Ascension Thursday)",
+    "namePt": "São Frei Gil",
+    "rule": {
+      "type": "ascension"
+    }
+  }
+]

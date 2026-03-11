@@ -1,0 +1,65 @@
+{
+  "name": "portugal-holidays",
+  "version": "1.0.0",
+  "description": "National and municipal public holidays in Portugal (Feriados Nacionais e Municipais)",
+  "main": "dist/index.cjs",
+  "module": "dist/index.mjs",
+  "types": "dist/index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "require": "./dist/index.cjs",
+      "import": "./dist/index.mjs"
+    }
+  },
+  "scripts": {
+    "build": "node build.mjs",
+    "typecheck": "tsc --noEmit",
+    "lint": "eslint src/",
+    "pretest": "npm run build",
+    "test": "node test/index.test.js",
+    "prepare": "husky"
+  },
+  "keywords": [
+    "portugal",
+    "holidays",
+    "feriados",
+    "feriados municipais",
+    "public holidays",
+    "municipal holidays",
+    "portuguese",
+    "calendar"
+  ],
+  "author": "Pedro Goncalves",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pjgoncalvez/portugal-holidays.git"
+  },
+  "homepage": "https://github.com/pjgoncalvez/portugal-holidays#readme",
+  "bugs": {
+    "url": "https://github.com/pjgoncalvez/portugal-holidays/issues"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "files": [
+    "dist/",
+    "README.md",
+    "LICENSE"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "devDependencies": {
+    "@commitlint/cli": "^20.4.3",
+    "@commitlint/config-conventional": "^20.4.3",
+    "@eslint/js": "^9.39.4",
+    "esbuild": "^0.25.0",
+    "eslint": "^9.39.4",
+    "globals": "^17.4.0",
+    "husky": "^9.1.7",
+    "typescript": "^5.9.3",
+    "typescript-eslint": "^8.57.0"
+  }
+}
