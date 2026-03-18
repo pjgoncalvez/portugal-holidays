@@ -31,8 +31,15 @@ npm install portugal-holidays
 ```js
 const { getHolidays, isHoliday } = require('portugal-holidays');
 
-// All holidays in 2025
+// All holidays in 2025 - returns Date objects
 const all = getHolidays(2025);
+// [{ date: Date(2025-01-01T00:00:00), name: "New Year's Day", ... }, ...]
+
+// To get ISO string format:
+const isoString = all[0].date.toISOString().slice(0, 10); // "2025-01-01"
+
+// To format for display:
+const formatted = all[0].date.toLocaleDateString('pt-PT'); // "01/01/2025"
 
 // Holidays for Porto only (national + Porto's municipal)
 const porto = getHolidays(2025, { municipality: 'Porto' });
@@ -42,6 +49,7 @@ const { isHoliday: yes, holidays } = isHoliday('2025-06-13', {
   municipality: 'Lisboa',
 });
 // yes === true  ->  St. Anthony's Day
+// holidays[0].date is a Date object
 ```
 
 **ES Modules**
@@ -159,10 +167,10 @@ Checks whether a given date is a public holiday. Accepts a `Date` object or an I
 
 ```js
 isHoliday('2025-04-25');
-// { isHoliday: true, holidays: [{ date: '2025-04-25', name: 'Freedom Day', ... }] }
+// { isHoliday: true, holidays: [{ date: Date(2025-04-25T00:00:00), name: 'Freedom Day', ... }] }
 
 isHoliday('2025-06-24', { municipality: 'Porto' });
-// { isHoliday: true, holidays: [{ date: '2025-06-24', name: "St. John the Baptist", ... }] }
+// { isHoliday: true, holidays: [{ date: Date(2025-06-24T00:00:00), name: "St. John the Baptist", ... }] }
 
 isHoliday('2025-06-24', { municipality: 'Lisboa' });
 // { isHoliday: false, holidays: [] }
@@ -184,7 +192,7 @@ getEasterSunday(2025); // Date: Sun Apr 20 2025
 
 ```ts
 interface Holiday {
-  date: string; // ISO 8601, e.g. "2025-06-13"
+  date: Date; // Date object at midnight Europe/Lisbon time
   name: string; // English name
   namePt: string; // Portuguese name
   type: HolidayType; // "national" | "municipal"
@@ -229,6 +237,47 @@ All **308 Portuguese municipalities** are covered, spanning:
 - **Região Autónoma da Madeira** — all municipalities
 
 Data sourced from [icalendario.pt](https://icalendario.pt/feriados/municipais/) and cross-verified against the 2026, 2027, and 2028 published dates.
+
+---
+
+## Migration from v1.x to v2.0
+
+### Breaking Change: Date Objects Instead of Strings
+
+v2.0 returns Date objects instead of ISO 8601 strings for all holiday dates.
+
+**Before (v1.x):**
+
+```js
+const holidays = getHolidays(2025);
+console.log(holidays[0].date); // "2025-01-01" (string)
+if (holidays[0].date === "2025-01-01") { /* ... */ }
+```
+
+**After (v2.0):**
+
+```js
+const holidays = getHolidays(2025);
+console.log(holidays[0].date); // Date object
+
+// Get ISO string:
+const isoStr = holidays[0].date.toISOString().slice(0, 10); // "2025-01-01"
+
+// Compare dates:
+if (holidays[0].date.getTime() === new Date(2025, 0, 1).getTime()) { /* ... */ }
+
+// Or use comparison string:
+const dateStr = holidays[0].date.toISOString().slice(0, 10);
+if (dateStr === "2025-01-01") { /* ... */ }
+```
+
+### Migration Checklist
+
+- [ ] Update code that accesses `.date` property to handle Date objects
+- [ ] Replace string comparisons with Date comparisons or convert to strings
+- [ ] Use `.toISOString().slice(0, 10)` to get YYYY-MM-DD format
+- [ ] Use `.toLocaleDateString()` for localized formatting
+- [ ] Update TypeScript types if using typed code
 
 ---
 
