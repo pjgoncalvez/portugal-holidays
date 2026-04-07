@@ -4,7 +4,7 @@
 [![npm version](https://img.shields.io/npm/v/portugal-holidays.svg)](https://www.npmjs.com/package/portugal-holidays)
 [![npm downloads](https://img.shields.io/npm/dm/portugal-holidays.svg)](https://www.npmjs.com/package/portugal-holidays)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Node.js >= 18](https://img.shields.io/badge/node-%3E%3D18-brightgreen)](package.json)
+[![Node.js >= 20](https://img.shields.io/badge/node-%3E%3D20-brightgreen)](package.json)
 
 > NPM package for Portuguese public holidays — national and municipal (_feriados nacionais e municipais_). Written in TypeScript with full type definitions included.
 
