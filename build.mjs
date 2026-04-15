@@ -9,7 +9,8 @@ const shared = {
   entryPoints: ["src/index.ts"],
   bundle: true,
   platform: "node",
-  sourcemap: true,
+  minify: true,
+  legalComments: "none",
 };
 
 await Promise.all([
@@ -25,4 +26,4 @@ await Promise.all([
   }),
 ]);
 
-console.log("Build complete: dist/index.cjs + dist/index.mjs + dist/index.d.ts (with source maps)");
+console.log("Build complete: dist/index.cjs + dist/index.mjs + dist/index.d.ts");
